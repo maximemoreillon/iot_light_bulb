@@ -23,7 +23,7 @@
 #define DEVICE_FIRMWARE_VERSION "0.0.1"
 
 // Pin mapping
-#define RELAY_PIN 56
+#define RELAY_PIN 5
 #define LED_PIN 13
 #define BUTTON_PIN 0
 
