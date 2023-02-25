@@ -10,7 +10,7 @@
 
 // Information to identify the device
 #define DEVICE_TYPE "bulb"
-#define DEVICE_FIRMWARE_VERSION "0.2.0"
+#define DEVICE_FIRMWARE_VERSION "0.2.1"
 
 // Pin mapping
 #define RELAY_PIN 5

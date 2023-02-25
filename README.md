@@ -1,3 +1,3 @@
 # IoT Light bulb firmware
 
-project page: https://articles.maximemoreillon.com/articles/520
+More information about this project [here](https://articles.maximemoreillon.com/articles/520)
